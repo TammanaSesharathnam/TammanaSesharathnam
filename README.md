@@ -154,17 +154,6 @@ Computer Science undergraduate skilled in **JavaScript, React.js, HTML/CSS, and 
 
 💻 **GitHub:** https://github.com/TammanaSesharathnam
 
----
-
-<div align="center">
-
-### ⭐ "Code. Learn. Build. Grow."
-
-Thanks for visiting my profile! 😊
-
-</div>
-
----
 
 <div align="center">
 
