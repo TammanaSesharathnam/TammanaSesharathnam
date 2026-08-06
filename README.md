@@ -163,3 +163,35 @@ Computer Science undergraduate skilled in **JavaScript, React.js, HTML/CSS, and 
 Thanks for visiting my profile! 😊
 
 </div>
+
+---
+
+<div align="center">
+
+## 🌟 Thanks for Visiting My Profile!
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Thank+you+for+visiting!+😊;Let's+Connect+and+Build+Amazing+Things!;Happy+Coding!+💙" />
+
+<br>
+
+⭐ If you like my work, consider giving a **Star** to my repositories.
+
+💬 Feel free to connect with me and collaborate on exciting projects.
+
+🚀 **Let's learn, build, and grow together!**
+
+<br>
+
+<p>
+  <a href="https://github.com/TammanaSesharathnam">
+    <img src="https://img.shields.io/badge/Follow%20Me%20on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<h3>✨ Thank You for Visiting! ✨</h3>
+
+<p>
+<img src="https://komarev.com/ghpvc/?username=TammanaSesharathnam&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
+
+</div>
