@@ -188,7 +188,6 @@ Thanks for visiting my profile! 😊
   </a>
 </p>
 
-<h3>✨ Thank You for Visiting! ✨</h3>
 
 <p>
 <img src="https://komarev.com/ghpvc/?username=TammanaSesharathnam&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
