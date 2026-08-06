@@ -16,7 +16,7 @@ Passionate about building scalable web applications, crafting intuitive user exp
 
 # 🚀 About Me
 
-🎓 I'm currently pursuing **B.Tech in Computer Science & Engineering** at **Shri Vishnu Engineering College for Women** with a **CGPA of 8.8**. :contentReference[oaicite:0]{index=0}
+🎓 I'm currently pursuing **B.Tech in Computer Science & Engineering** at **Shri Vishnu Engineering College for Women** with a **CGPA of 8.8**. 
 
 💡 I enjoy developing responsive web applications, working with REST APIs, and building database-driven solutions.
 
@@ -30,7 +30,7 @@ Passionate about building scalable web applications, crafting intuitive user exp
 
 # 💼 Career Objective
 
-Computer Science undergraduate skilled in **JavaScript, React.js, HTML/CSS, and Python**, with hands-on experience in building and testing full-stack web applications, REST APIs, and database-driven systems. Seeking a Software Development role where I can contribute to scalable and well-tested applications while continuously learning and growing. :contentReference[oaicite:1]{index=1}
+Computer Science undergraduate skilled in **JavaScript, React.js, HTML/CSS, and Python**, with hands-on experience in building and testing full-stack web applications, REST APIs, and database-driven systems. Seeking a Software Development role where I can contribute to scalable and well-tested applications while continuously learning and growing. 
 
 ---
 
@@ -113,14 +113,13 @@ Computer Science undergraduate skilled in **JavaScript, React.js, HTML/CSS, and 
 ### Infosys Springboard 6.0 Virtual Internship
 
 - Developed an NLP-based fake job detection application using **Python** and Machine Learning.
-- Worked on frontend integration, database management, testing, and debugging to improve application performance. :contentReference[oaicite:2]{index=2}
+- Worked on frontend integration, database management, testing, and debugging to improve application performance. 
 
 ---
 
 # 🏆 Achievements
 
-🏅 Selected among the top-performing teams in the **5-Day IDE Bootcamp Phase-II** organized by **AICTE, MIC, and GITAM University**. :contentReference[oaicite:3]{index=3}
-
+🏅 Selected among the top-performing teams in the **5-Day IDE Bootcamp Phase-II** organized by **AICTE, MIC, and GITAM University**.
 ---
 
 # 👩‍💼 Leadership
@@ -129,8 +128,7 @@ Computer Science undergraduate skilled in **JavaScript, React.js, HTML/CSS, and 
 
 - Coordinated student activities
 - Organized technical events
-- Promoted collaboration among student teams :contentReference[oaicite:4]{index=4}
-
+- Promoted collaboration among student teams
 ---
 
 # 📊 GitHub Stats
