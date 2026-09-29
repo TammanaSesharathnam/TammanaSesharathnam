@@ -148,7 +148,7 @@ Computer Science undergraduate skilled in **JavaScript, React.js, HTML/CSS, and 
 
 📧 **Email:** tammanasravani12569@gmail.com
 
-💼 **LinkedIn:** https://linkedin.com/in/your-link
+💼 **LinkedIn:** https://www.linkedin.com/in/tammana-sesharathnam-881568317/
 
 💻 **GitHub:** https://github.com/TammanaSesharathnam
 
